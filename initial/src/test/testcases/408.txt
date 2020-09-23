@@ -1,0 +1,5 @@
+int main(){
+            string x[20],y;
+            float k;
+            boolean j;
+        }

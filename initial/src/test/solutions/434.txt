@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(PPLmain),[VarDecl(a,ArrayTypePointer(IntType)),VarDecl(c,StringType)],VoidType,Block([BinaryOp(=,BinaryOp(||,BinaryOp(||,BinaryOp(<=,Id(x),Id(y)),BinaryOp(==,Id(a),Id(b))),Id(a)),BinaryOp(||,BinaryOp(&&,BooleanLiteral(true),BinaryOp(+,Id(b),Id(c))),BooleanLiteral(false)))]))])

@@ -1,0 +1,2 @@
+boolean main(string a1, float arr[],boolean flag){
+}

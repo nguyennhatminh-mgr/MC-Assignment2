@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[VarDecl(args,ArrayTypePointer(StringType))],VoidType,Block([VarDecl(i,IntType),BinaryOp(=,Id(i),IntLiteral(0)),Dowhile([Block([BinaryOp(=,Id(dowhilebidao),BooleanLiteral(true)),Return(BooleanLiteral(false)),BinaryOp(=,Id(toPassPPL),BooleanLiteral(true)),BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)))])],BinaryOp(==,Id(PPL),Id(pass)))]))])

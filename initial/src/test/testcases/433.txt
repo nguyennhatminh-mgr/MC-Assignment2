@@ -1,0 +1,5 @@
+void main(int a[],string c){
+            x<=y || a == b ;
+            rational(g+5*p[20]);
+            print("result"+rational);
+        }

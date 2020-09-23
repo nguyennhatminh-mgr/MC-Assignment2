@@ -1,0 +1,9 @@
+int main(){
+    do
+        {
+        statement1;
+        if (condition)
+            break;
+        statement2;
+    }while (test_condition);
+}

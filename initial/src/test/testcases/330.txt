@@ -1,0 +1,11 @@
+int main () {
+    do{
+        //comment1
+        a=b=c==d;
+    }while(false);
+}
+string foo(string a){
+    //comment2
+    a = k;
+    return a;
+}

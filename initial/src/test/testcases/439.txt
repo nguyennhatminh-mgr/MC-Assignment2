@@ -1,0 +1,8 @@
+boolean mainPPL(){
+            int a[9],i;
+            for(i=8;i>=0;i=i+2){
+                if(i==false)
+                    return true;
+                return false;
+            }
+        }

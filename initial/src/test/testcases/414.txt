@@ -1,0 +1,8 @@
+
+        float add(int a,int b){
+            int c;
+            float result;
+        }
+        void main(float PPL){
+            int s,t[10];
+        }

@@ -1,0 +1,3 @@
+int a,b,c[10],d;
+                float e;
+                string w,q;

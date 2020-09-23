@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([ArrayCell(Id(maxarray),ArrayCell(CallExpr(Id(pow),[IntLiteral(10),IntLiteral(10)]),IntLiteral(10)))]))])

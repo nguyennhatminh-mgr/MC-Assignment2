@@ -1,0 +1,7 @@
+string x,y;
+        int main(){
+            if(c>d/a) return;
+            else {
+                a=a[a>b-c];
+            }
+        }

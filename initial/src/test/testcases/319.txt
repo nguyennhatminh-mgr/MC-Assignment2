@@ -1,0 +1,5 @@
+
+int main(){
+    foo(a,1.23);
+    string arr[5];
+}

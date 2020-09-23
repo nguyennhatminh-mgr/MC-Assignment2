@@ -1,0 +1,4 @@
+int a,b,a[10],b[10],c;
+        string c,f,e,d,g[10];
+        float b,l,k,j;
+        boolean hello,program;

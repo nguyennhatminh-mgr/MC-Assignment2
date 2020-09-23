@@ -1,0 +1,4 @@
+float func_test(string str[], int a){
+    a = a + 1;
+    func_test(str[2], a+2);            
+}

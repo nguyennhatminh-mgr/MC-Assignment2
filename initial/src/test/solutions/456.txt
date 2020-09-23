@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(gt),[VarDecl(n,IntType)],FloatType,Block([Return(ArrayCell(Id(a),ArrayCell(Id(a),Id(a))))]))])

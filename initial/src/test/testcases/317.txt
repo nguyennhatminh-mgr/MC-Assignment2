@@ -1,0 +1,7 @@
+
+void foo(int a, int b){
+    int a,b,c,d;
+    if (a ==1) {
+        a=3;
+    }
+}

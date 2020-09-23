@@ -1,0 +1,3 @@
+float a[3], b;
+int[] foo(string a1, float arr[],int b[]){
+}

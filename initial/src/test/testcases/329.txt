@@ -1,0 +1,11 @@
+int main () {
+    /* local variable definition */
+    int a;
+    a = 0;
+    /* do loop execution */
+    do {
+        printf("value of a: ", a);
+        a = a + 1;
+    }while( a < 20 );
+    return 0;
+}

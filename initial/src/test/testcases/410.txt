@@ -1,0 +1,4 @@
+float[] main(int a,float x[]){
+            string b,z[20];
+            boolean r;
+        }

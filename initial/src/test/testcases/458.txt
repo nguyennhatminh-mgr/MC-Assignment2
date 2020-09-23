@@ -1,0 +1,3 @@
+float gt(int n){
+                    return a[a[a]]+b[i]==c;        
+                }

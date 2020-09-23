@@ -1,0 +1,10 @@
+
+        int foo (float a, int arr[]) 
+        {
+            int a , b , c ;
+            float a[5],d ;
+            string str;
+            a = b + c;
+            if (a > b) a = a -2;
+            if(false) a = a+2;
+        }

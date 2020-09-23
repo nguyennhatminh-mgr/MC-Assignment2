@@ -1,0 +1,5 @@
+boolean ptr[4],_a,_b;
+int func() {
+    for( i =0;i <=5;i=i+1)
+        func2(ptr[2],_a,_b);     
+}

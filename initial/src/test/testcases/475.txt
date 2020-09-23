@@ -1,0 +1,11 @@
+
+        string print(string a){
+            print(a);
+        }
+        void main(){
+            int a[10],b[10];
+            b=map(a);
+            reduce(lambda(x,x*x),a,b[0]);
+            print(print(print(print(map(b(map(a)))))));
+            reduce(map(a,reduce(b,map(a))));
+        }

@@ -1,0 +1,11 @@
+void main(){
+            boolean a,b;
+            a=false;
+            b=true;
+            do{
+                a+b;
+                int i;
+                for(i=0;i<10;i=i+1)
+                    print("PPL is passed");
+            }while a==true && b==false;
+        }

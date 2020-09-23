@@ -1,0 +1,8 @@
+
+int x,y,arr[6];
+boolean flag;
+void main(){
+    for(x=0;y=x % -2.32;x=x+1){
+        arr[x]= !1;
+    }
+}

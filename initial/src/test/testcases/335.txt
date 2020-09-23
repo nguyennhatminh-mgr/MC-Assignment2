@@ -1,0 +1,6 @@
+string[] ABS(string a, int w[]){
+    {
+    }
+    {    
+    }
+}

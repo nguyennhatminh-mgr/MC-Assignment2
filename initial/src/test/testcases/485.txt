@@ -1,0 +1,4 @@
+void f(int a,float b, float c){
+            true && false && (2 > 3/5);
+            print(print("Hello word"));
+        }

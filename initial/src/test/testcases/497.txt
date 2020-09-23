@@ -1,0 +1,2 @@
+void main() {a[pow(2,3)];}
+        

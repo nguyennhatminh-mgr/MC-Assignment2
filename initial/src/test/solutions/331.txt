@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([If(UnaryOp(-,FloatLiteral(5.0)),Dowhile([Block([UnaryOp(!,Id(a)),VarDecl(a,StringType),VarDecl(b,StringType),VarDecl(arr,ArrayType(StringType,4))])],ArrayCell(Id(arr),BooleanLiteral(true))),CallExpr(Id(print),[StringLiteral(error)]))]))])

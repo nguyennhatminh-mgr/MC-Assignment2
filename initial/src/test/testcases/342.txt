@@ -1,0 +1,5 @@
+int main()
+{
+    func1(foo(x%2),foo(foo(x+3,5.01*0.e-2),foo("string \\")));
+    return 0;
+}

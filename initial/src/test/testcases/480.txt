@@ -1,0 +1,12 @@
+void func(){
+            {
+                int mark;
+                result(mark);
+                if(mark<5)
+                    println("Trung binh");
+                else if (5<=mark&&mark<8)
+                    println("Kha");
+                else
+                    println("Gioi");  
+            }
+        }

@@ -1,0 +1,4 @@
+int[] map(int list[]){}
+        int[] reduce(int a[],int list){}
+        float hello(float hello){}
+        int start,end,list[10];

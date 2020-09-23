@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(func),[],VoidType,Block([Block([VarDecl(mark,IntType),CallExpr(Id(result),[Id(mark)]),If(BinaryOp(<,Id(mark),IntLiteral(5)),CallExpr(Id(println),[StringLiteral(Trung binh)]),If(BinaryOp(&&,BinaryOp(<=,IntLiteral(5),Id(mark)),BinaryOp(<,Id(mark),IntLiteral(8))),CallExpr(Id(println),[StringLiteral(Kha)]),CallExpr(Id(println),[StringLiteral(Gioi)])))])]))])

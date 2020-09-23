@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([VarDecl(a,IntType),BinaryOp(=,Id(a),IntLiteral(0)),Dowhile([Block([CallExpr(Id(printf),[StringLiteral(value of a: ),Id(a)]),BinaryOp(=,Id(a),BinaryOp(+,Id(a),IntLiteral(1)))])],BinaryOp(<,Id(a),IntLiteral(20))),Return(IntLiteral(0))]))])

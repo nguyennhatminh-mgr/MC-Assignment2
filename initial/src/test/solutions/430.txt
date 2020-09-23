@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(PPLmain),[],FloatType,Block([If(BinaryOp(&&,BinaryOp(==,Id(a),Id(b)),BinaryOp(!=,Id(a),Id(c))),Block([BinaryOp(=,Id(a),BinaryOp(>=,Id(b),Id(c))),BinaryOp(=,Id(a),Id(c))]))]))])

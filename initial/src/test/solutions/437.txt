@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(a),[],FloatType,Block([VarDecl(a,ArrayType(IntType,9)),VarDecl(i,IntType),For(BinaryOp(=,Id(i),IntLiteral(0));BinaryOp(<,Id(i),IntLiteral(9));BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)));Block([BinaryOp(=,ArrayCell(Id(a),Id(i)),StringLiteral(PPL Lover))])),CallExpr(Id(print),[StringLiteral(successful)])]))])

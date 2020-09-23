@@ -1,0 +1,5 @@
+int gt(int n){
+                    if (a==b)
+                        return a[a[a]]+b[i]==c;  
+                    return null;      
+                }

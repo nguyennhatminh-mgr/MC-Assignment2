@@ -1,0 +1,6 @@
+float PPLmain(){
+            if( a==b && a!=c){
+                a=b>=c;
+                a=c;
+            }
+        }

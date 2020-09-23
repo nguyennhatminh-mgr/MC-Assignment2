@@ -1,0 +1,2 @@
+boolean c[5],a;
+                float b;

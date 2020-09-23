@@ -1,0 +1,8 @@
+float a;
+string b;
+int[] func(int a, string b) {
+    for(!2;-3;5){
+        a=a+b;
+        func(a,b);
+    }    
+}

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([ArrayCell(CallExpr(Id(arraycell),[]),ArrayCell(CallExpr(Id(arraycell),[]),ArrayCell(CallExpr(Id(arraycell),[]),ArrayCell(CallExpr(Id(arraycell),[]),ArrayCell(CallExpr(Id(arraycell),[]),IntLiteral(10))))))]))])

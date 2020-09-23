@@ -1,0 +1,7 @@
+string x,y;
+        float[] PPL(){
+            if(c<=d/a) return;
+            else {
+                a=b[99>g[10]]-a[a>b-c];
+            }
+        }

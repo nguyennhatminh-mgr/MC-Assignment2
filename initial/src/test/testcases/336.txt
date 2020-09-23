@@ -1,0 +1,10 @@
+int[] ABS(int a, float b){
+    int a;
+    a =8;
+    if(-5 == a){
+        a = a+1;
+    }
+    else
+        continue;
+    return a;
+}

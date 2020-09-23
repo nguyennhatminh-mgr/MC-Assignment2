@@ -1,0 +1,4 @@
+int main(){
+            arraycell[arraycell[arraycell[arraycell[arraycell[10]]]]];
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([CallExpr(Id(cout),[ArrayCell(ArrayCell(Id(array),Id(i)),Id(j))]),If(BinaryOp(>,Id(a),Id(c)),Continue())]))])

@@ -1,0 +1,6 @@
+string a,b;
+        void main(){
+            if(true && a > 5) a[foo()]=0;
+            if(0.5+a==9) return true;
+            if(1e2<=a) break;
+        }

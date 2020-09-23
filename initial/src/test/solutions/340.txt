@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([VarDecl(number1,FloatType),BinaryOp(=,Id(number1),FloatLiteral(13.5)),VarDecl(number2,FloatType),BinaryOp(=,Id(number2),FloatLiteral(12.4)),CallExpr(Id(printf),[StringLiteral(number1 = %f\n),Id(number1)]),CallExpr(Id(printf),[StringLiteral(number2 = %lf),Id(number2)]),Return(IntLiteral(0))]))])

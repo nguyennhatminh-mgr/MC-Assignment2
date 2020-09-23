@@ -1,0 +1,1 @@
+Program([VarDecl(x,StringType),VarDecl(y,StringType),FuncDecl(Id(PPL),[],ArrayTypePointer(FloatType),Block([If(BinaryOp(<=,Id(c),BinaryOp(/,Id(d),Id(a))),Return(),Block([BinaryOp(=,Id(a),BinaryOp(-,ArrayCell(Id(b),BinaryOp(>,IntLiteral(99),ArrayCell(Id(g),IntLiteral(10)))),ArrayCell(Id(a),BinaryOp(>,Id(a),BinaryOp(-,Id(b),Id(c))))))]))]))])

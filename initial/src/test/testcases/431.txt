@@ -1,0 +1,4 @@
+void main(){
+            foo(2)[3+x]=a[b[2]]+3;
+            c[d[e+g]]=foo(a[9]+c[9[c-g]]);
+        }

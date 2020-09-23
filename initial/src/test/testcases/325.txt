@@ -1,0 +1,1 @@
+boolean func1(boolean arg1, int arg2, float arr[]){}

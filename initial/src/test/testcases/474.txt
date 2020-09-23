@@ -1,0 +1,18 @@
+
+        string print(string a){
+            print(a);
+        }
+        int[] map(int list[]){
+            int i;
+            for(i=0;i<length(list);i=i+1){
+                list[i]=(list[i]*2+1)/3;
+            }
+            int newlist[10];
+            newlist=list;
+            return newlist;
+        }
+        void main(){
+            int a[10],b[10];
+            b=map(a);
+            print(print(print(print(map(b(map(a)))))));
+        }

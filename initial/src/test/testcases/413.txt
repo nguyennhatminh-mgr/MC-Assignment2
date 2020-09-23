@@ -1,0 +1,4 @@
+void main(int hello[],float PPL){
+            int s,t[10];
+            string minh;
+        }

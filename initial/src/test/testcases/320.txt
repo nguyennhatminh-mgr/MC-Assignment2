@@ -1,0 +1,8 @@
+
+int main(){
+    do{
+    }
+    if (str == "string")
+        return -1;
+    while (1.2e3 >= x);
+}

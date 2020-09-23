@@ -1,0 +1,2 @@
+boolean a[10],b,c[5];
+                string p[7],d;

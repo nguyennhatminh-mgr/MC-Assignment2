@@ -1,0 +1,10 @@
+int[] map(int list[]){
+            a=a+1;
+        }
+        int[] reduce(int a[],int list){
+            b=b+1;
+        }
+        float hello(float hello){
+            c=c+1;
+        }
+        

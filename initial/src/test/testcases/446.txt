@@ -1,0 +1,11 @@
+void main(string args[]){
+            int i;
+            i=0;
+            do{ 
+                dowhilebidao=true;
+                return false;
+                toPassPPL=true;
+                i=i+1;
+            }
+            while (PPL==pass);
+        }

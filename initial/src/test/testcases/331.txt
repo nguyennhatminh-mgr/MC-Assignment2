@@ -1,0 +1,9 @@
+int main () {
+    if(-5.0)
+        do{
+            !a;
+            string a,b,arr[4];
+        }while(arr[true]);
+    else
+        print("error");
+}

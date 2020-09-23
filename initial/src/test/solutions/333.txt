@@ -1,0 +1,1 @@
+Program([VarDecl(a,FloatType),VarDecl(b,StringType),FuncDecl(Id(func),[VarDecl(Id(a),IntType),VarDecl(Id(b),StringType)],ArrayTypePointer(IntType),Block([For(UnaryOp(!,IntLiteral(2));UnaryOp(-,IntLiteral(3));IntLiteral(5);Block([BinaryOp(=,Id(a),BinaryOp(+,Id(a),Id(b))),CallExpr(Id(func),[Id(a),Id(b)])]))]))])

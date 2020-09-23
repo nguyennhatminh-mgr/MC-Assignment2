@@ -1,0 +1,4 @@
+int main(){
+            arraycell(1,2,a)[arraycell(c,d)[arraycell(e,f)[arraycell(g)[arraycell(e,f)[10+k]]]]];
+        }
+        

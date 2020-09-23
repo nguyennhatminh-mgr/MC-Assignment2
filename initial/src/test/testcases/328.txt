@@ -1,0 +1,9 @@
+void main() {
+    do{
+    print("statement 1");
+    }
+    {
+    print("statement 2");
+    }
+    while (true);
+}

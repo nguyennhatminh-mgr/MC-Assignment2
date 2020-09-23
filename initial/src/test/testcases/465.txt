@@ -1,0 +1,6 @@
+void func(){
+            int a;
+            i+i/u-5*7+"hello";
+            a-a>=PPL-5;
+            z*z+3;
+        } 

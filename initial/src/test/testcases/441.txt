@@ -1,0 +1,6 @@
+int main(){
+            int a,b;
+            do a=a+1; while a<10;
+            return true;
+            float c;
+        }
